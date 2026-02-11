@@ -1,0 +1,16 @@
+var topKFrequent = function (nums, k) {
+    let freq = {}
+    for (let num of nums) {
+        if (freq[num]) {
+            freq[num]++
+        } else {
+            freq[num] = 1
+        }
+    }
+    let empty = []
+    for (let key in freq){
+        empty.push(Number(key))
+    }
+    empty.sort((a,b)=>freq[b]-freq[a])
+    return empty.slice(0,k)
+};
