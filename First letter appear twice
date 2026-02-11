@@ -1,0 +1,11 @@
+var repeatedCharacter = function(s) {
+    freq = {}
+    for (let char of s){
+        if (freq[char]){
+            return char
+        }   else {
+            freq[char] = 1
+        }
+    }
+    
+};
