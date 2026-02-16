@@ -1,0 +1,17 @@
+React Hooks
+
+What are React hooks? Why were they introduced?
+
+Explain useState with an example.
+
+Explain useEffect and its dependency array.
+
+Difference between useEffect vs useLayoutEffect
+
+What is useContext? How do you use it?
+
+What is useReducer? When should we use it instead of useState?
+
+Custom hooks — how to create and use them.
+
+Explain useMemo vs useCallback with examples.
