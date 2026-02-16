@@ -1,0 +1,67 @@
+Virtual DOM & Rendering
+
+What is Virtual DOM and how does React use it?
+
+How does React diffing algorithm work?
+
+What is reconciliation?
+
+Difference between React Fiber vs old React architecture
+
+What is render props? How is it different from HOC?
+
+5. Routing & State Management
+
+What is React Router? Explain BrowserRouter, Routes, Link, and Navigate.
+
+Difference between client-side routing vs server-side routing
+
+Explain lifting state up in React.
+
+What is Redux? Explain store, reducer, action, and middleware.
+
+Difference between Redux and Context API
+
+Explain Redux Toolkit and why it's preferred now.
+
+6. Performance Optimization
+
+How to prevent unnecessary re-rendering? (React.memo, useMemo, useCallback)
+
+What is code splitting? How does React.lazy work?
+
+What is debouncing and throttling in React?
+
+Explain PureComponent vs Component
+
+What are key props in lists and why are they important?
+
+7. Forms & Events
+
+How to handle forms in React? Controlled vs uncontrolled components.
+
+How to handle multiple input fields with one state object.
+
+How does event handling work in React? (onClick, onChange, etc.)
+
+What is SyntheticEvent in React?
+
+8. Miscellaneous / Advanced
+
+What is Higher-Order Component (HOC)? Give example.
+
+What are Portals in React?
+
+What is Error Boundary? How does it work?
+
+How does React Suspense work?
+
+What is Strict Mode in React?
+
+Difference between React vs React Native
+
+What are Fragments? Why are they used?
+
+Explain Refs and forwardRef
+
+How to integrate third-party libraries in React
