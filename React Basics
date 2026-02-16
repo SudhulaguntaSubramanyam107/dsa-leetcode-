@@ -1,0 +1,15 @@
+React Basics
+
+What is React? How is it different from other frameworks like Angular or Vue?
+
+What are the features of React? (JSX, Virtual DOM, component-based, unidirectional data flow)
+
+What is JSX? Can browsers read JSX directly?
+
+Explain components in React. Class vs Functional components.
+
+What is props? How is it different from state?
+
+What is state? Where should it be used?
+
+What is setState and why should we not mutate state directly?
