@@ -1,0 +1,15 @@
+Component Lifecycle
+
+Explain React component lifecycle (Mounting, Updating, Unmounting)
+
+What are React lifecycle methods?
+
+Mounting: constructor(), render(), componentDidMount()
+
+Updating: shouldComponentUpdate(), componentDidUpdate()
+
+Unmounting: componentWillUnmount()
+
+Difference between componentDidMount and componentDidUpdate
+
+What is getDerivedStateFromProps and getSnapshotBeforeUpdate?
